@@ -137,15 +137,17 @@ Remember: **Reps beat theory.** Dedicate 20 minutes of deliberate slow-speed cir
 
 ## 📚 References & Further Reading
 
-1. **Code, Keith** (1993). [*A Twist of the Wrist II: The Basics of High-Performance Motorcycle Riding*](https://superbikeschool.com/about-us/keith-code/). Code Break Books / California Superbike School.  
+1. **Hough, David L.** (2000). [*Proficient Motorcycling: The Ultimate Guide to Riding Well*](https://store.motorcycleclassics.com/products/proficient-motorcycling-1). BowTie Press / Motorcycle Classics.  
+   *(Foundational treatise on low-speed dynamics, the friction zone, counterweighting, and motorcycle balance physics).*
+2. **Code, Keith** (1993). [*A Twist of the Wrist II: The Basics of High-Performance Motorcycle Riding*](https://superbikeschool.com/about-us/keith-code/). Code Break Books / California Superbike School.  
    *(Comprehensive study of "Survival Reactions" / SRs—the involuntary panic instincts like throttle chopping and target fixation that cause drops).*
-2. **Palladino, Jerry "Motorman"** (2003–Present). [*Ride Like a Pro: The Police Motor Officer Technique*](https://www.ridelikeapro.com).  
+3. **Palladino, Jerry "Motorman"** (2003–Present). [*Ride Like a Pro: The Police Motor Officer Technique*](https://www.ridelikeapro.com).  
    *(The definitive training method detailing elevated RPM, rear brake trail drag, and full-head rotation for coned box navigation).*
-3. **Parks, Lee** (2003). [*Total Control: High Performance Street Riding Techniques*](https://totalcontrol.net). Motorbooks.  
+4. **Parks, Lee** (2003). [*Total Control: High Performance Street Riding Techniques*](https://totalcontrol.net). Motorbooks.  
    *(Detailed biomechanics of chassis geometry, counterweighting, and psychological discipline for precision control).*
-4. **Motorcycle Safety Foundation (MSF)** (2020). [*Basic RiderCourse & Advanced RiderCourse Rider Handbooks*](https://msf-usa.org).  
+5. **Motorcycle Safety Foundation (MSF)** (2020). [*Basic RiderCourse & Advanced RiderCourse Rider Handbooks*](https://msf-usa.org).  
    *(Standardized curriculum for low-speed maneuvering, friction-zone modulation, and the 20-foot U-turn box evaluation).*
-5. **Northwestern University Center for Public Safety** (2018). [*Police Motorcycle Instructor Training & Rodeo Skills Manual*](https://nucps.northwestern.edu).  
+6. **Northwestern University Center for Public Safety** (2018). [*Police Motorcycle Instructor Training & Rodeo Skills Manual*](https://nucps.northwestern.edu).  
    *(Standardized tight-quarters motorcycle rodeo patterns, the 18–24 ft slow cone box, and synchronized control input dynamics).*
 
 ---
