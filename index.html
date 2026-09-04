@@ -38,6 +38,7 @@
       --highlight: #f87171;
       --highlight-bg: rgba(239, 68, 68, 0.1);
       --warning-border: rgba(239, 68, 68, 0.3);
+      --summary-bg: linear-gradient(135deg, rgba(255, 255, 255, 0.06) 0%, rgba(255, 255, 255, 0.02) 100%);
     }
 
     * {
@@ -52,7 +53,7 @@
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       line-height: 1.7;
       -webkit-font-smoothing: antialiased;
-      padding: 2rem 1rem;
+      padding: 2.5rem 1rem;
     }
 
     .container {
@@ -63,7 +64,7 @@
     /* Hero Section */
     .hero {
       text-align: center;
-      margin-bottom: 3.5rem;
+      margin-bottom: 3rem;
     }
 
     .hero-tag {
@@ -123,8 +124,38 @@
       border-left: 2px solid rgba(255,255,255,0.3);
       border-right: 2px solid rgba(255,255,255,0.3);
       background: linear-gradient(90deg, rgba(255,255,255,0.02) 0%, rgba(255,255,255,0.05) 50%, rgba(255,255,255,0.02) 100%);
-      margin-bottom: 3.5rem;
+      margin-bottom: 3rem;
       border-radius: 4px;
+    }
+
+    /* Executive Summary Callout */
+    .summary-card {
+      background: var(--summary-bg);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 14px;
+      padding: 1.75rem;
+      margin-bottom: 3.5rem;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    }
+
+    .summary-card h3 {
+      font-family: 'Cinzel', serif;
+      font-size: 1.15rem;
+      color: #ffffff;
+      margin: 0 0 1rem 0;
+      letter-spacing: 0.05em;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .summary-card ul {
+      margin-bottom: 1rem;
+    }
+
+    .summary-card li {
+      margin-bottom: 0.6rem;
+      color: #e5e7eb;
     }
 
     /* Section Styles */
@@ -256,6 +287,15 @@
       margin-right: 0.5rem;
     }
 
+    .conclusion-quote {
+      font-family: 'Cinzel', serif;
+      font-size: 1.05rem;
+      text-align: center;
+      color: #ffffff;
+      margin: 2rem 0 1rem 0;
+      letter-spacing: 0.05em;
+    }
+
     footer {
       text-align: center;
       color: var(--text-muted);
@@ -284,6 +324,20 @@
         “A bike at low speed doesn't fall because it's slow. It falls because you stop driving it.”
       </div>
     </header>
+
+    <!-- Executive Summary -->
+    <section class="summary-card">
+      <h3>⚡ Executive Summary</h3>
+      <ul>
+        <li><strong>The Triangle of Inputs:</strong> Hold constant throttle (2,000–3,000 RPM), drag the rear brake (5–10 kg pressure), and continuously slip the clutch in its 3–5 mm friction zone.</li>
+        <li><strong>Counterweight Posture:</strong> Let the motorcycle drop beneath you while your torso remains tall, loading all your weight into the outside footpeg.</li>
+        <li><strong>Unbroken Visual Commitment:</strong> Turn your head completely around (chin to collarbone) and fixate on the exit point before turning the bars.</li>
+        <li><strong>The Cardinal Rule:</strong> In moments of panic, never chop the throttle, pull the clutch in, or touch the front brake.</li>
+      </ul>
+      <p style="font-size: 0.92rem; color: #9ca3af; margin-top: 0.75rem;">
+        Slow-speed motorcycle maneuvering is counter-intuitive: instinct tells riders to slow down, pull in the clutch, and look where they fear falling. Physics demands the exact opposite.
+      </p>
+    </section>
 
     <!-- Step 1: Setup -->
     <section>
@@ -386,6 +440,31 @@
           <li><strong>Both Directions:</strong> Double practice time on your weaker side.</li>
           <li><strong>The 6-Meter Box:</strong> Coned box U-turns (Standard Police Motor-Officer Test).</li>
         </ul>
+      </div>
+    </section>
+
+    <!-- Conclusion -->
+    <section>
+      <h2>06. Conclusion: The Psychology of Slow-Speed Mastery</h2>
+      <div class="card">
+        <p style="margin-bottom: 1rem;">
+          Speed covers up poor technique; low speed exposes everything. At 60 mph, gyroscopic forces stabilize the machine on your behalf. At 3 mph, <strong>you</strong> must manufacture stability through mechanical tension—holding engine drive against the rear brake while floating in the clutch friction zone.
+        </p>
+        <p style="margin-bottom: 1rem;">
+          When you conquer the full-lock U-turn:
+        </p>
+        <ul>
+          <li>You eliminate the anxiety of tight parking structures, dead-end roads, and narrow switchbacks.</li>
+          <li>You replace the instinct to put your feet down with the instinct to drive the machine forward.</li>
+          <li>You gain the refined fine-motor muscle memory that underpins all high-level riding disciplines.</li>
+        </ul>
+        <p style="margin-top: 1rem;">
+          <strong>Reps beat theory.</strong> Dedicate 20 minutes of deliberate slow-speed circle drills twice a week. Within a month, full-lock turns in a single lane will transform from your most dreaded maneuver into second nature.
+        </p>
+
+        <div class="conclusion-quote">
+          “Stay upright. Keep your eyes up. Never stop driving the machine.”
+        </div>
       </div>
     </section>
 
