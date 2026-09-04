@@ -15,7 +15,7 @@
 
 </div>
 
-## ⚡ Executive Summary
+## ⚡ Summary
 
 > **The Core Formula in 30 Seconds:**
 > 1. **The Triangle of Inputs:** Hold constant throttle (**2,000–3,000 RPM**), drag the rear brake (**5–10 kg pressure**), and continuously slip the clutch in its **3–5 mm friction zone**.
