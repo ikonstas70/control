@@ -135,6 +135,23 @@ Remember: **Reps beat theory.** Dedicate 20 minutes of deliberate slow-speed cir
 
 ---
 
+## 📚 References & Further Reading
+
+1. **Hough, David L.** (2000). *Proficient Motorcycling: The Ultimate Guide to Riding Well*. BowTie Press.  
+   *(Foundational treatise on low-speed dynamics, the friction zone, counterweighting, and motorcycle balance physics).*
+2. **Code, Keith** (1993). *A Twist of the Wrist II: The Basics of High-Performance Motorcycle Riding*. Code Break Books.  
+   *(Comprehensive study of "Survival Reactions" / SRs—the involuntary panic instincts like throttle chopping and target fixation that cause drops).*
+3. **Palladino, Jerry "Motorman"** (2003–Present). *Ride Like a Pro: The Police Motor Officer Technique*.  
+   *(The definitive video instruction method detailing elevated RPM, rear brake trail drag, and full-head rotation for coned box navigation).*
+4. **Parks, Lee** (2003). *Total Control: High Performance Street Riding Techniques*. Motorbooks.  
+   *(Detailed biomechanics of chassis geometry, counterweighting, and psychological discipline for precision control).*
+5. **Motorcycle Safety Foundation (MSF)** (2020). *Basic RiderCourse & Advanced RiderCourse Rider Handbooks*.  
+   *(Standardized curriculum for low-speed maneuvering, friction-zone modulation, and the 20-foot U-turn box evaluation).*
+6. **Northwestern University Center for Public Safety** (2018). *Police Motorcycle Instructor Training & Rodeo Skills Manual*.  
+   *(Standardized tight-quarters motorcycle rodeo patterns, the 18–24 ft slow cone box, and synchronized control input dynamics).*
+
+---
+
 <div align="center">
 
 *Stay upright. Keep your eyes up. Never stop driving the machine.*
