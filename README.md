@@ -137,7 +137,7 @@ Remember: **Reps beat theory.** Dedicate 20 minutes of deliberate slow-speed cir
 
 ## 📚 References & Further Reading
 
-1. **Hough, David L.** (2000). [*Proficient Motorcycling: The Ultimate Guide to Riding Well*](https://www.goodreads.com/book/show/90605.Proficient_Motorcycling). BowTie Press.  
+1. **Hough, David L.** (2000). [*Proficient Motorcycling: The Ultimate Guide to Riding Well*](https://www.goodreads.com/book/show/125157226-proficient-motorcycling). BowTie Press.  
    *(Foundational treatise on low-speed dynamics, the friction zone, counterweighting, and motorcycle balance physics).*
 2. **Code, Keith** (1993). [*A Twist of the Wrist II: The Basics of High-Performance Motorcycle Riding*](https://superbikeschool.com/about-us/keith-code/). Code Break Books / California Superbike School.  
    *(Comprehensive study of "Survival Reactions" / SRs—the involuntary panic instincts like throttle chopping and target fixation that cause drops).*
